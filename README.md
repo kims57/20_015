@@ -1,4 +1,4 @@
-This project entials the use of Seruat and NicheNet to analyze scRNA sequencing data of ligature-induced periodontitis murine models - particularly focusing on stromal-immune cell interactions in inflammatory responses. 
+This project entials the use of Seruat and NicheNet to analyze scRNA sequencing data of ligature-induced periodontitis murine models - particularly focusing on stromal-immune cell interactions in inflammatory response. 
 The purpose is to better understand stromal cell function in mouse oral mucosal tissue and its role in pathogenesis.
 
 **Contents:** 
