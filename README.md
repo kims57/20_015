@@ -10,4 +10,4 @@ The purpose is to better understand stromal cell function in mouse oral mucosal 
 4. NicheNet: with Fibroblast and Neutrophils are receivers
 
 Intellectual Property of NIH NIDCR:
-Suyeon Kim, Daniel Martin, Tomoko Ikeuchi
+Suyeon Kim, Daniel Martin, Tomoko Ikeuchi, and Niki Moutsopoulos
